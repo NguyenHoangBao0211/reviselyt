@@ -5,7 +5,7 @@
 * Integrated Hugging Face Inference Router API using distilbart-cnn-12-6 with Abstractive Summarization; implemented hash-based duplicate detection (SHA-256) on PostgreSQL/Supabase to prevent redundant database entries; built file extraction and input tokenization pipelines.
 * Achieved seamless multi-format document processing with automated text extraction, robust error handling for API/network edge cases, and reduced processing latency for large files.
 * ***Technologies:*** *TypeScript, Next.js (App Router), React, Tailwind CSS, Supabase (PostgreSQL), Hugging Face Transformers API (distilbart-cnn-12-6), Node.js*
-* ***GitHub:*** [Project Link](https://github.com/your-username/reviselyt)
+* ***GitHub:*** [Project Link](https://github.com/NguyenHoangBao0211/reviselyt)
 
 ---
 
@@ -14,4 +14,4 @@
 * Tích hợp Hugging Face Inference Router API với mô hình distilbart-cnn-12-6 áp dụng kỹ thuật Tóm tắt Diễn dịch (Abstractive Summarization); thiết lập cơ chế kiểm tra và chặn trùng lặp file dựa trên mã băm (Hash) lưu tại Supabase/PostgreSQL; xây dựng pipeline trích xuất văn bản và tiền xử lý token.
 * Tối ưu hóa khả năng xử lý đa định dạng tài liệu với tỷ lệ trích xuất chính xác cao, xử lý ngoại lệ mượt mà cho các lỗi kết nối/API, giúp giảm thời gian xử lý và tóm tắt file dung lượng lớn.
 * ***Công nghệ sử dụng:*** *TypeScript, Next.js (App Router), React, Tailwind CSS, Supabase (PostgreSQL), Hugging Face Transformers API (distilbart-cnn-12-6), Node.js*
-* ***GitHub:*** [Link Project](https://github.com/your-username/reviselyt)
+* ***GitHub:*** [Project Link](https://github.com/NguyenHoangBao0211/reviselyt)
